@@ -1,7 +1,7 @@
 # IOS tweak (Theos)
 # study_tweak
 * [第一课 theos框架环境搭建](./study_tweak/pages/page.md)
-* [第二课 通过Thoes复习oc反射](./study_tweak/pages/page.md)
+* [第二课 通过theos复习oc反射](./study_tweak/pages/page.md)
 * [第三课 theos hook oc构造函数](./study_tweak/pages/page.md)
 * [第四课 theos oc类添加函数同时调用](./study_tweak/pages/page.md)
 * [第五课 theos oc修改参数](./study_tweak/pages/page.md)
