@@ -15,6 +15,7 @@
 * [第十三课 theos hook swift普通方法](./study_tweak/pages/page.md)
 * [第十四课 theos hook swift构造函数](./study_tweak/pages/page.md)
 * [第十五课 theos hook  swift修改对象参数](./study_tweak/pages/page.md)
+* [第十六课 theos 添加动态库](./study_tweak/pages/page.md)
 # 视频教程
 * [对应视频教程目录](https://github.com/haidragon/haidragon_study)
 * qq交流群 
