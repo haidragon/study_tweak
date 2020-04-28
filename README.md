@@ -18,8 +18,13 @@
 * --- 16.tweak hook swift构造函数.mp4
 * --- 17.CaptainHook使用.mp4
 * --- 18.hookzz使用.mp4
-* --- 19.命令工具.mp4
-
+* --- 19.tweak命令工具.mp4
+* --- 20.函数追踪方式1.mp4
+* --- 21.函数追踪方式2.mp4
+* --- 22.函数追踪方式3.mp4
+* --- 23.函数追踪方式4.mp4
+* --- 24.添加系统设置项.mp4
+* --- 25.deb重打包.mp4
 # 视频教程
 * [对应视频教程目录](https://github.com/haidragon/haidragon_study)
 * qq交流群 
