@@ -29,6 +29,6 @@
 * --- 27.添加系统设置项.mp4
 * --- 28.deb重打包.mp4
 # 视频教程
-* [对应视频教程目录](https://github.com/haidragon/haidragon_study)
+* [其它视频教程目录](https://github.com/haidragon/haidragon_study)
 * qq交流群 
 * 309262570 
