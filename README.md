@@ -1,5 +1,5 @@
 # IOS tweak (Theos)
-# study_tweak
+# study_tweak  代码视频请加入星球 id:21902384  有任何问题加作者qq 2207344074
 * --- 1.tweak命令环境搭建.mp4
 * --- 2.xcode集成环境搭建.mp4
 * --- 3.通过tweak复习oc反射.mp4
